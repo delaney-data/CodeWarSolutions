@@ -4,4 +4,4 @@
 </p>
 
 # Code Wars Solutions
-Below you can find my solutions to solving "Kata" challenges with SQL (PostgreSQL flavor :elephant:)
+Below I will share my solutions to solving <i>Kata</i> challenges with SQL (PostgreSQL flavor :elephant:)
