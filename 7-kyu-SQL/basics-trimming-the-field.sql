@@ -1,6 +1,9 @@
 
-/*Challenge: You have access to a table of monsters as follows:
+/*
 
+https://www.codewars.com/kata/59401c25c15cbeb58d000028/sql
+
+Challenge: You have access to a table of monsters as follows:
 monsters schema
    id
   name
