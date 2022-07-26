@@ -5,7 +5,7 @@ This git hub repo will have my solutions to solving <i>kata</i> challenges on Co
 SQL flavor: 
   - <img src="https://user-images.githubusercontent.com/66498659/181071848-1eb8e52e-0870-4ec2-b466-38f007fd10a6.png" width = "3%" height ="3%"><sub>PostgreSQL</sub>
 
-Kata Soultions:
+Kata Solutions:
    - [Level 7 Katas](https://github.com/delaney-data/CodeWarsSolutions/tree/main/7-kyu-SQL)
    - [Level 6 Katas](https://github.com/delaney-data/CodeWarsSolutions/tree/main/6-kyu-SQL)
 
