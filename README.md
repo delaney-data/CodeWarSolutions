@@ -1,11 +1,11 @@
 # Code Wars Solutions :open_book:
-This git hub repo will have my solutions to solving <i>kata</i> challenges on Codewars with SQL.
+This git hub repo will have my solutions to solving <i>kata</i> SQL challenges on Codewars.
 
 
 SQL flavor: 
   - <img src="https://user-images.githubusercontent.com/66498659/181071848-1eb8e52e-0870-4ec2-b466-38f007fd10a6.png" width = "3%" height ="3%"><sub>PostgreSQL</sub>
 
-Kata Solutions:
+Solutions:
    - [Level 7 Katas](https://github.com/delaney-data/CodeWarsSolutions/tree/main/7-kyu-SQL)
    - [Level 6 Katas](https://github.com/delaney-data/CodeWarsSolutions/tree/main/6-kyu-SQL)
    - [Level 5 Katas](https://github.com/delaney-data/CodeWarsSolutions/tree/main/5-kyu-SQL)
