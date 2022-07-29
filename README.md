@@ -8,6 +8,7 @@ SQL flavor:
 Kata Solutions:
    - [Level 7 Katas](https://github.com/delaney-data/CodeWarsSolutions/tree/main/7-kyu-SQL)
    - [Level 6 Katas](https://github.com/delaney-data/CodeWarsSolutions/tree/main/6-kyu-SQL)
+   - [Level 5 Katas](https://github.com/delaney-data/CodeWarsSolutions/tree/main/5-kyu-SQL)
 
 ## What is Code Wars?
 <p align="center"><img src="https://i.imgur.com/ghsdVN1.jpg" height="50%" width="50%">
