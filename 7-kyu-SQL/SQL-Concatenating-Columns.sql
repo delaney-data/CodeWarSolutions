@@ -18,6 +18,9 @@ the full title of the person (concatenate all columns together except id), as fo
 Don't forget to add spaces.
 */
 
-SELECT CONCAT_WS
+SELECT CONCAT_WS 
 (' ', prefix, first, last, suffix) AS title
 FROM names;
+
+-- General Syntax 
+-- CONCAT_WS(separator, string1, string2, ....)
